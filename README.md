@@ -1,5 +1,5 @@
 # git
-![til](https://github.com/abzd43643/git/blob/main/demo.gif)
+![til](https://github.com/ggpp132/code/blob/main/demo.gif)
 ## Dependencies
 - Python 3.9
 - PyTorch 2.0.1
