@@ -1,4 +1,4 @@
-# git
+# code
 ![til](https://github.com/ggpp132/code/blob/main/demo.gif)
 ## Dependencies
 - Python 3.9
