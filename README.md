@@ -1,6 +1,6 @@
 # code
 
-The full codebase for the paper ``L0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion" is available at [Github_Link](https://github.com/gargi884/FNet-MMIF)
+The full codebase for the paper ``L0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion" is available at [FNet-MMIF](https://github.com/gargi884/FNet-MMIF)
 
 
 ![til](https://github.com/ggpp132/code/blob/main/demo.gif)
